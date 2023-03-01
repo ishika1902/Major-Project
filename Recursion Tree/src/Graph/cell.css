@@ -1,0 +1,11 @@
+.turing-cell{
+    height:50px;
+    width:50px;
+    background-color: white;
+    outline:1px solid #23248b;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    /*border-radius: 5px 20px;*/
+}
